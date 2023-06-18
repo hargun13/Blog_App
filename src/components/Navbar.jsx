@@ -13,7 +13,7 @@ function Navbar() {
 
 
   return (
-    <div className=' bg-white flex justify-between px-10 h-20  items-center py-11 border-b-[1px] border-gray-300 fixed w-screen md:z-0 z-0'>
+    <div className=' bg-white flex justify-between px-10 h-20  items-center py-11 border-b-[1px] border-gray-300 fixed w-screen md:z-0 z-50'>
 
         <p className='md:hidden text-xl'>THE BLOG</p>
         <ul className='hidden md:flex'>

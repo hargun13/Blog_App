@@ -61,9 +61,9 @@ const Hero = () => {
           </Fade>
 
           <Fade right>
-          <div className='flex py-8 border-b-[1px] border-gray-300 '>
+          <div className='flex py-8 border-b-[1px] border-gray-300 -z-50'>
 
-            <img src="https://i.guim.co.uk/img/media/5a2bdada6ff3249d6d17f099b682c84bfc11f673/0_90_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4fdc08f2fb604d9e91078924a7bd798" alt='her_small2' className='md:w-[230px] w-[150px] h-[100px] md:h-auto aspect-auto mx-3'/>
+            <img src="https://i.guim.co.uk/img/media/5a2bdada6ff3249d6d17f099b682c84bfc11f673/0_90_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4fdc08f2fb604d9e91078924a7bd798" alt='her_small2' className='md:w-[230px] w-[150px] h-[100px] md:h-auto aspect-auto mx-3 -z-50'/>
 
             <div className=''>
             <p className='my-2 font-semibold text-sm text-gray-500 tracking-widest'>2023-06-17T06:00:06Z</p>
