@@ -54,7 +54,7 @@ function Navbar() {
         
         }>
 
-            <p className='p-1 px-3 py-5 text-3xl border-b-[1px] border-gray-300'>BRANDING</p>
+            <p className='p-1 px-3 py-5 text-3xl border-b-[1px] border-gray-300'>The Blog</p>
 
             <ul className='pt-10 uppercase'>
 
