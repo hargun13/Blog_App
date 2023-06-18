@@ -16,15 +16,15 @@ const Newsletter = () => {
 
             <div className='md:flex justify-between'>
                 <Zoom clear>
-                <input type="text" name="fname" id="fname" placeholder='First Name' className='bg-[#353B42] text-gray-400 px-4 md:px-6 py-2 md:py-4 my-4 md:my-0 md:w-auto w-full outline-none rounded-xl'/>
+                <input type="text" name="fname" id="fname" placeholder='First Name' className='bg-[#353B42] text-gray-400 px-4 md:px-6 py-2 md:py-4 my-4 md:my-0 md:w-auto w-full outline-none rounded-xl '/>
                 </Zoom>
                 <Zoom clear>
-                <input type="text" name="lname" id="lname" placeholder='Last Name' className='bg-[#353B42] text-gray-400 px-4 md:px-6 py-2 md:py-4 my-4 md:my-0 md:w-auto w-full outline-none rounded-xl' />
+                <input type="text" name="lname" id="lname" placeholder='Last Name' className='bg-[#353B42] text-gray-400 px-4 md:px-6 py-2 md:py-4 my-4 md:my-0 md:w-auto w-full outline-none rounded-xl ' />
                 </Zoom>
             </div>
 
             <Zoom clear>
-            <input type="email" name="email" id="email" placeholder='Email' className='bg-[#353B42] text-gray-400 px-4 md:px-6 py-2 md:py-4 outline-none rounded-xl w-full my-4'/>
+            <input type="email" name="email" id="email" placeholder='Email' className='bg-[#353B42] text-gray-400 px-4 md:px-6 py-2 md:py-4 outline-none rounded-xl w-full my-4 -z-50'/>
             </Zoom>
 
             <p className='text-center text-sm text-gray-400 mb-7 flex items-center justify-center gap-5 my-3'>

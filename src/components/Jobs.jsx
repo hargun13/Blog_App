@@ -13,11 +13,11 @@ const Jobs = () => {
 
       <h2 className='text-2xl text-[#684d4d] font-semibold tracking-widest mb-16 mx-5 text-center md:text-left'>Unlock Your Career Potential: Explore Job Opportunities!!</h2>
 
-      <div className='flex flex-wrap gap-10 items-center justify-start md:mx-8'>
+      <div className='flex flex-wrap gap-10 items-center justify-start md:mx-8 -z-50'>
         
         {jobs.map((jobs) => (
         <Fade bottom>
-        <div className='h-auto w-[350px] p-4 border-[1px] border-gray-100 rounded-xl shadow-xl'>
+        <div className='h-auto w-[350px] p-4 border-[1px] border-gray-100 rounded-xl shadow-xl -z-50'>
 
             <div className='flex items-center justify-between w-full'>
               <div className='flex items-center justify-center gap-3'>
